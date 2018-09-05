@@ -1,6 +1,6 @@
 function aug_fRMC(input_matrix, max_iter, gamma1, gamma2) 
 %% adding the address of the required toolboxes to the MATLAB directory and save them
-addpath(genpath('ObjectProposalEdgeBoxes'));
+addpath(genpath('tools'));
 savepath
 % creating the weak foreground model using fRMC method (see
 % InfaceExtFrankWolfe.m
