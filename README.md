@@ -1,9 +1,8 @@
 ###################################################################                                                 
-#    fast Robust Matrix Completion (fRMC) for background subtraction                             
+#    Moving Object Detection through Robust MatrixCompletion Augmented with Objectness                             
 #
 #    Behnaz Rezaei (brezaei@ece.neu.edu)
-#    Augment Cognition Lab (ACLab) http://www.northeastern.edu/ostadabbas/
-#    Copyright, 2017                        
+#    Augment Cognition Lab (ACLab) http://www.northeastern.edu/ostadabbas/                        
 #                                                     
 ###################################################################
 
@@ -58,6 +57,6 @@ Version 1.0 (09/05/2018)
 
 ####################################################################
 Refrences:
-[1] Zitnick, C. Lawrence, and Piotr Doll√°r. "Edge boxes: Locating object proposals from edges." In European conference on computer vision, pp. 391-405. Springer, Cham, 2014.
-[2] Doll√°r, Piotr, and C. Lawrence Zitnick. "Fast edge detection using structured forests." IEEE transactions on pattern analysis and machine intelligence 37, no. 8 (2015): 1558-1570.
+[1] Zitnick, C. Lawrence, and Piotr Doll·r. "Edge boxes: Locating object proposals from edges." In European conference on computer vision, pp. 391-405. Springer, Cham, 2014.
+[2] Doll·r, Piotr, and C. Lawrence Zitnick. "Fast edge detection using structured forests." IEEE transactions on pattern analysis and machine intelligence 37, no. 8 (2015): 1558-1570.
 
