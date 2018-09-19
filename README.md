@@ -5,7 +5,7 @@ This is the code for the following paper:
 
 B. Rezaei, S. Ostadabbas, “Moving Object Detection through Robust Matrix Completion Augmented with Objectness,” IEEE Journal of Selected Topics in Signal Processing (J-STSP), August 2018.
 
-This paper has supplementary downloadable material on qualitative comparison of the  augmented fRMC against other object detection methods available at \href{http://www.coe.neu.edu/Research/AClab/J-STSP-2018-supplementary/}{J-STSP-2018-Sup}, provided by the authors. Contact the corresponding author for further questions about this work.
+This paper has supplementary downloadable material on qualitative comparison of the  augmented fRMC against other object detection methods available at http://www.coe.neu.edu/Research/AClab/J-STSP-2018-supplementary/, provided by the authors. Contact the corresponding author for further questions about this work.
 
 Contact: 
 [Behnaz Rezaei](brezaei@ece.neu.edu),
