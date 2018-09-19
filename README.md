@@ -8,7 +8,17 @@
 
 1. Introduction
 
-If using the fast Robust Matrix Completion code, please cite the following work in any resulting publication: 
+If using the fast Robust Matrix Completion code, please cite the following works in any resulting publication: 
+
+@article{rezaei2018moving,
+  title={Moving Object Detection through Robust Matrix Completion Augmented with Objectness},
+  author={Rezaei, Behnaz and Ostadabbas, Sarah},
+  journal={IEEE Journal of Selected Topics in Signal Processing},
+  year={2018},
+  publisher={IEEE}
+}
+
+and
 
 @inproceedings{rezaei2017background,
   title={Background Subtraction via Fast Robust Matrix Completion},
@@ -17,7 +27,6 @@ If using the fast Robust Matrix Completion code, please cite the following work 
   pages={1871--1879},
   year={2017}
 }
-@ (to be added after publishing)
 
 ###################################################################
 
