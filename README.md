@@ -3,7 +3,7 @@
 ## 1. Introduction
 This is the code for the following paper:
 
-B. Rezaei, S. Ostadabbas, ‚ÄúMoving Object Detection through Robust Matrix Completion Augmented with Objectness,‚Äù IEEE Journal of Selected Topics in Signal Processing (J-STSP), August 2018.
+B. Rezaei, S. Ostadabbas, ìMoving Object Detection through Robust Matrix Completion Augmented with Objectness,î IEEE Journal of Selected Topics in Signal Processing (J-STSP), August 2018.
 
 This paper has supplementary downloadable material on qualitative comparison of the  augmented fRMC against other object detection methods available at \href{http://www.coe.neu.edu/Research/AClab/J-STSP-2018-supplementary/}{J-STSP-2018-Sup}, provided by the authors. Contact the corresponding author for further questions about this work.
 
@@ -73,4 +73,5 @@ and
 
 ## 8. Acknowledgements
 [1] Zitnick, C. Lawrence, and Piotr Dollar. "Edge boxes: Locating object proposals from edges." In European conference on computer vision, pp. 391-405. Springer, Cham, 2014.
+
 [2] Dollar, Piotr, and C. Lawrence Zitnick. "Fast edge detection using structured forests." IEEE transactions on pattern analysis and machine intelligence 37, no. 8 (2015): 1558-1570.
